@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/subject/main",
+    "pages/index/main",
+    "pages/details/main",
+    "pages/newDetails/main",
+    "pages/mackInformation/main",
+    "pages/lookAllow/main",
+    "pages/case/main",
+    "pages/aboutdraw/main",
+    "pages/accept/main",
+    "pages/authorization/main"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

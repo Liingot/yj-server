@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "服务进度",
+    "navigationStyle": "custom",
+    "usingComponents": {
+        "van-steps": "./../../vant/steps/index"
+    }
+}
